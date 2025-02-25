@@ -3,3 +3,6 @@ requests
 webdriver-manager 
 aiohttp 
 asyncio
+deepface
+opencv-python 
+numpy
